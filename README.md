@@ -1,5 +1,7 @@
 # ServicesDemoExercise
 
+This project refactors a project which implements data- and event-binding to one which uses Angular services. The implementation is arguably much simpler.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
 ## Development server
